@@ -71,7 +71,9 @@ li {
 .copy-container span{
 	color:#808080;
 }
-	
+.copy-container{
+	text-align: center;
+}
 .copy-container img{
       margin: auto;
 	text-align: center;
